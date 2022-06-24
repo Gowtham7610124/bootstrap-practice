@@ -1,0 +1,235 @@
+
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    width: 100%;
+    margin-bottom: 0%;
+}
+
+.p-20{
+    padding-top: 20px ;
+}
+.fa-brands{
+    cursor: pointer;
+}
+
+/* Navigation bar style */
+nav{
+    width: 100%;
+    position: absolute;
+    color: white;
+}
+.list{
+    padding: 20px;
+    width: 1000px;
+}
+.list ul li{
+    cursor: pointer;
+}
+.fa-searchengin{
+    font-size: 2rem;
+    width: max-content;
+    padding: .2rem;
+}
+nav h2{
+    padding: 15px;
+    padding-left: 10rem;
+}
+
+.searchbar{
+    width: 500px;
+    padding: 20px;
+    height: 5rem;
+}
+.searchInput{
+    border-radius: 30px;
+    text-align: center;
+}
+
+/* header image styling */
+.imageContainer{
+    top: 0%;
+}
+.textOnImage{
+    color: white;
+    text-align: center;
+    position: absolute;
+    top: 30rem;
+}
+.textOnImage button{
+    color: white;
+    width: 150px;
+    border-radius: 30px;
+    background-color: #52cc55;
+    border-style: none;
+}
+.btn_container button{
+    background-color: #52cc55;
+    color: white;
+    width: 100px;
+}
+
+/* image below the header image */
+.image1 img{
+    width: 300px;
+    border-radius: 30px;
+}
+.btn-green{
+    background-color: #52cc55;
+    
+}
+.flexing{
+    padding: 10px;
+}
+/* green background */
+.greenBackground{
+    background-color: #54d054;
+}
+.greenBackground h3,.greenBackground p{
+    color: #2a7e2c;
+}
+.greenBackground{
+    text-align: center;
+}
+.greenButton button{
+    width: 150px;
+    padding: 0%;
+    border-style: none;
+    cursor: pointer;
+    border-style: none;
+}
+.greenButton button:focus{
+    background-color: #2a7e2c;
+    color: white;
+}
+.photography{
+    text-align: center;
+    border-radius: 30px 0 0px 30px;
+}
+.print{
+    border-radius: 0px 30px 30px 0px;
+}
+.greenButton{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.greenBackground h3{
+    padding-top: 2rem;
+}
+ /* grid image */
+.firstColumn img{
+   width: 200px;
+   padding: 1rem;
+   
+}
+.firstrow{
+    text-align: center;
+    padding-top: 5rem;
+}
+.view_work{
+    background-color: #2a7e2c;
+    color: white;
+    border-radius: 30px;
+}
+.viewWork{
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+}
+ 
+/* testimonial container */
+.testimonial_container{
+    background-color: rgba(255, 255, 255, 0.89);
+}
+
+/* our happy client */
+.ourHappyclient{
+    color: #828081;
+    background-color: #f2f0f1;
+}
+.ourHappyclient h3{
+    padding-top: 1rem;
+}
+.allclient button{
+    width: 150px;
+    background-color: #828081;
+    border-style: none;
+}
+
+/* profile image */
+.meetTheTeam{
+    background-color: #54d054;
+    text-align: center;
+}
+.meetTheTeam h3, .meetTheTeam p{
+    color: #2a7e2c;
+}
+.profile img{
+    width: 200px;
+    border-radius: 100%;
+    padding: 10px;
+}
+.profile{
+    display: flex;
+}
+.profile ul {
+    list-style: none;
+    display: flex;
+    color: white;
+}
+.workWithUs{
+    background-color: #2a7e2c;
+    padding: 20px;
+    text-align: center;
+}
+.workWithUs button{
+    border-style: none;
+    width: 150px;
+    background-color: #54d054;
+    color: white;
+    border-radius: 30px;
+}
+/* footer */
+.insideImage{
+    width: 55px;
+}
+.insideImage img{
+    width: 50px;
+    margin-right: 0%;
+    padding: 0%;
+}
+.AboutUsContainer{
+    padding-left: 10px;
+    color: white;
+    background-color: #333333;
+}
+.insideContainer{
+    display: flex;
+    padding: 10px;
+}
+.contact_input input{
+    color: white;
+}
+.contact_input button{
+    padding: 0%;
+    background-color: #52cc55;
+    color: white;
+    border-style: none;
+}
+.last_div{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-bottom: 0px;
+    height: 100%;
+}
+.AboutUsContainer{
+    padding-bottom: 1rem;
+}
+
+
+
+
+ 
